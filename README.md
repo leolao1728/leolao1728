@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leolao1728
 - 👀 I’m interested in quantitative trading
-- 🌱 I’m currently pursuing my B.Sc in Quantitative Finance and Risk Management Science in CUHK
+- 🌱 I’m currently pursuing my B.Sc in Quantitative Finance and Risk Management Science at the Chinese University of Hong Kong
 - ⚡ Fun fact: life is more complex than mathematics but it is still a kind of 3-dimentional problem!
 
 <!---
